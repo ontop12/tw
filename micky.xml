@@ -12,7 +12,11 @@
     <title>Rotten Tomatoes: Best of 2017</title>
     <link>https://api.trakt.tv/users/list408/list/rotten-tomatoes-best-of-2017/items<traky>
   </dir>
-  
+
+  <dir>
+    <title>One Play</title>
+    <link>https://raw.githubusercontent.com/ontop12/tw/master/tw%20one%20play.xml</link>
+  </dir>  
 </xml>
 
 <dir>
