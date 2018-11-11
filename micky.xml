@@ -1,0 +1,37 @@
+<xml>
+  <dir>
+    <title>Trending Movies</title>
+    <trakt>https://api.trakt.tv/movies/trending</trakt>
+  </dir>
+
+  <dir>
+    <title>Reddit Top 250 (2017 Edition</title>
+    <trakt>https://api.trakt.tv/users/philrivers/lists/reddit-top-250-2017-edition/items</trakt>
+  </dir>
+   <dir>
+    <title>Rotten Tomatoes: Best of 2017</title>
+    <link>https://api.trakt.tv/users/list408/list/rotten-tomatoes-best-of-2017/items<traky>
+  </dir>
+  
+</xml>
+
+<dir>
+<title>Animal Kingdom</title>
+<tmdb>list/13488</tmdb>
+</dir>
+
+<dir>
+<title>Animated</title>
+<tmdb>list/32947</tmdb>
+</dir>
+
+<dir>
+<title>Search</title>
+<tmdb>search</tmdb>
+</dir>
+
+<plugin>
+<name>Settings</name>
+<link>plugin://plugin.video.wolf?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
