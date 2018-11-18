@@ -1,3 +1,183 @@
+<dir>
+   <title>Movies</title>
+   <link>https://raw.githubusercontent.com/ontop12/tom/master/t%201%20%20movies.xml</link>
+</dir>
+
+<dir>
+   <title>Tv</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/eod%20tv.xml</link>
+</dir>
+<dir>
+   <title>Music</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/w%20mic.xml</link>
+</dir>
+
+<dir>
+   <title>1 play</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/1%20play.xml</link>
+</dir>
+
+<dir>
+   <title>danceing</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/b%20danceing.xml</link>
+</dir>
+
+<dir>
+   <title>black 1 play</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/black%201%20play.xml</link>
+</dir>
+
+<dir>
+   <title>direct moie links 2.</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/direct%20moie%20links%202.xml</link>
+</dir>
+
+<dir>
+   <title>direct movie links</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/direct%20movie%20links.xml</link>
+</dir>
+
+<dir>
+   <title>eod black dir</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/eod%20black%20dir.xml</link>
+</dir>
+<dir>
+   <title>eod dir movies</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/eod%20dir%20movies.xml</link>
+</dir>
+
+<dir>
+   <title>eod hood dir</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/eod%20hood%20dir.xml</link>
+</dir>
+
+<dir>
+   <title>hood 2.</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/hood%202.xml</link>
+</dir>
+
+<dir>
+   <title>live action</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/live%20action.xml</link>
+</dir>
+
+<dir>
+   <title>live an</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/live%20an.xml</link>
+</dir>
+
+<dir>
+   <title>live kids</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/live%20kids.xml</link>
+</dir>
+
+<dir>
+   <title>power live</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/power%20live.xml</link>
+</dir>
+
+<dir>
+   <title>ufc.</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/ufc.xml</link>
+</dir>
+
+<dir>
+<title>Upcoming Movies</title>
+<tmdb>list/https://www.themoviedb.org/list/51107</tmdb>
+</dir>
+
+<dir>
+   <title>Movies boxset</title>
+   <link>https://raw.githubusercontent.com/lost50/end-of-days/master/myboxset.xml</link>
+</dir>
+
+<dir>
+   <title>b ball</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/b%20ball.xml</link>
+</dir>
+
+<dir>
+   <title>boxing greats</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/boxing%20greats.xml</link>
+</dir>
+
+<dir>
+   <title>knock outs</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/knock%20outs.xml</link>
+</dir>
+
+<dir>
+   <title>ufc knock outs</title>
+   <link>https://raw.githubusercontent.com/Overwatch12/knight/master/ufc%20knock%20outs.xml</link>
+</dir>
+
+<dir>
+<title>assassin </title>
+<tmdb>list/63741</tmdb>
+</dir>
+
+<dir>
+<title>hostage and kidnap</title>
+<tmdb>list/63739</tmdb>
+</dir>
+
+<dir>
+<title>dinosaur monster</title>
+<tmdb>list/63723</tmdb>
+</dir>
+
+<dir>
+<title>kid</title>
+<tmdb>list/63725</tmdb>
+</dir>
+
+<dir>
+<title>disaster</title>
+<tmdb>list/63722</tmdb>
+</dir>
+
+<dir>
+<title>suspense</title>
+<tmdb>list/63312</tmdb>
+</dir>
+
+<dir>
+        <title>Sniper Movies</title>
+        <tmdb>list/63189</tmdb>
+        <thumbnail>https://wallpaperstock.net/3d-robot%2C-fighter_wallpapers_55288_1920x1080.jpg</thumbnail>
+        <fanart></fanart>
+</dir>
+
+<dir>
+<title>Vikings</title>
+<tmdb>list/63864</tmdb>
+</dir>
+
+
+<dir>
+<title>Greek & Roman</title>
+<tmdb>list/63883</tmdb>
+</dir>
+
+
+<dir>
+<title>a </title>
+<tmdb>list/63885</tmdb>
+</dir>
+
+
+<dir>
+<title>witch </title>
+<tmdb>list/63847</tmdb>
+</dir>
+
+
+<dir>
+<title>action thriller movies 2017</title>
+<tmdb>list/63866</tmdb>
+</dir>
+
+
 <xml>
   <dir>
     <title>Trending Movies</title>
